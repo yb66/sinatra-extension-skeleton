@@ -1,6 +1,6 @@
 # encoding: UTF-8
 
-require "rspec_helper"
+require "spec_helper"
 
 require_relative "../lib/sinatra/MODULE.rb"
 
